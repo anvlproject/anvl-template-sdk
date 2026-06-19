@@ -68,7 +68,7 @@ See `templates/example-retro-wave/` for a complete working template with:
 ## Submitting Your Template
 
 1. Run `npx anvl-template validate .` — must pass with zero errors
-2. Create a pull request to the [ANVL Templates Registry](https://github.com/yourname/anvl-templates)
+2. Create a pull request to the [ANVL Templates Registry](https://github.com/anvlproject/anvl-template-sdk)
 3. Include a clear `preview.png` (1200×630)
 
 ## License
