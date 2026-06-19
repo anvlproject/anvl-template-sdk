@@ -1,0 +1,11 @@
+{
+  "id": "retro-wave",
+  "name": "Retro Wave",
+  "description": "Synthwave-inspired neon coin site with animated gradient hero and glowing stats.",
+  "author": "ANVL Community",
+  "version": "1.0.0",
+  "preview": "preview.png",
+  "primaryColor": "#ff6b35",
+  "bgColor": "#0d0d1a",
+  "tags": ["neon", "retro", "synthwave", "dark", "animated"]
+}

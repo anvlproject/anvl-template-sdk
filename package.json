@@ -1,0 +1,26 @@
+{
+  "name": "anvl-template-sdk",
+  "version": "1.0.0",
+  "description": "SDK for building custom coin site templates for the ANVL ecosystem.",
+  "main": "dist/index.js",
+  "bin": {
+    "anvl-template": "./bin/cli.js"
+  },
+  "keywords": ["anvl", "solana", "template", "sdk", "memecoin"],
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "validate": "node bin/cli.js validate",
+    "preview": "node bin/cli.js preview"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.18.3",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.2"
+  }
+}
